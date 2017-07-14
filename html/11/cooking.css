@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+main, nav, aside, article, section {
+  border: solid 1px;
+}
+
+header, footer {
+  border-bottom: solid 1px;
+}
+img {
+  width: 300px;
+}
+
+
+.flexbox {
+  display: flex;
+}
+
+.wd_960 {
+  width: 960px;
+  margin:  0 auto;
+}
+
+nav {
+  flex: 1;
+}
+
+aritcle {
+  flex: 3;
+}
+
+aside {
+  flex: 2;
+}

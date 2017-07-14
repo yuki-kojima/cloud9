@@ -1,0 +1,40 @@
+body {
+    line-height: 1.6;
+}
+
+.contents {
+    width: 500px;
+    margin: 0 auto;
+    padding: 15px;
+    border: solid 3px #FE2E64;
+}
+
+h2 {
+    background-color: #F7819F;
+    border-bottom: solid 1px #FE2E64;
+    margin: 0;
+    padding-left: 10px;
+}
+
+.inr_contents {
+    border: solid 1px #FE2E64;
+    margin-bottom: 20px;
+}
+
+dl, p {
+    padding: 0 10px;
+}
+
+dt {
+    border-bottom: dotted 1px #FE2E64;
+}
+
+a {
+    text-align: center;
+    background-color: #F6CED8;
+    font-weight: bold;
+    text-decoration: none;
+    border: solid 1px #FE2E64;
+    padding: 5px;
+    display: block;
+}

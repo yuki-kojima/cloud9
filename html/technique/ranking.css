@@ -1,0 +1,10 @@
+.ranking {
+    background-image: url(crown.jpeg);
+    background-size: contain;
+    -moz-background-size:contain;
+    -webkit-background-size:contain;
+    -o-background-size:contain;
+    -ms-background-size:contain;	
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}

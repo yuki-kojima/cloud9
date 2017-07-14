@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+header, footer, main, nav, aside, article, section {
+  border: solid 1px;
+}
+img {
+  width: 300px;
+}

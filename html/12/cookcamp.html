@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>CookCamp(クックキャンプ)</title>
+        <link rel="shortcut icon" href="images/icon/favicon.ico" type="image/vnd.microsoft.icon">
+        <link rel="stylesheet" href="html5reset-1.6.1.css" type="text/css">
+        <link rel="stylesheet" href="cookcamp.css" type="text/css">
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="flexbox">
+                    <div class="header_left_wrap">
+                        <h1 class="hidden">CookCamp</h1>
+                        <img src="images/structure/logo.png" alt="CookCamp" width="222" height="38">
+                        <p class="ttl_cacth">誰でも作れる簡単料理レシピ掲載サイト</p>
+                    </div>
+                    <div class="header_right_wrap">
+                        <form id="serch" action="#">
+                            <p>
+                                <input type="text" name="serch_keyword" placeholder="料理名・食材名で検索">
+                                <input type="submit" form="serch" value="レシピ検索">
+                            </p>
+                        </form>
+                    </div>
+                </div>
+                <ul class="header_bottom_wrap flexbox">
+                    <li><a href="#">新着レシピ</a></li>
+                    <li><a href="#">料理から検索</a></li>
+                    <li><a href="#">食材から検索</a></li>
+                    <li><a href="#">旬の料理特集</a></li>
+                    <li><a href="#">ランキング</a></li>
+                </ul>
+            </div>
+        </header>
+        <main>
+            <div class="container">
+                <div class="keyVisual">
+                    <a href="#"><img src="images/contents/mainView.jpg" alt="家庭で簡単フレンチ特集" width="960"></a>
+                    <p class="hidden">家庭で簡単フレンチ特集</p>
+                </div>
+                <div class="contents">
+                    <nav>
+                        <div class="content_wrap mgn_btm_10">
+                            <h2><span class="icon_dish">料理別レシピ</span></h2>
+                            <ul class="navi_menu">
+                                <li><a href="#"><span class="icon_arrow">和食</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">イタリアン</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">フレンチ</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">中華</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">アジアン</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">エスニック</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">鍋</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">デザート</span></a></li>
+                            </ul>
+                        </div>
+                        <div class="content_wrap mgn_btm_10">
+                            <h2><span class="icon_dish">料理別レシピ</span></h2>
+                            <ul class="navi_menu">
+                                <li><a href="#"><span class="icon_arrow">お弁当</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">簡単おかず</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">ダイエット</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">ベビーフード</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">節約食材</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">アレルギー</span></a></li>
+                                <li><a href="#"><span class="icon_arrow">シニア料理</span></a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <div class="main_contents mgn_btm_10">
+                        <div class="content_wrap">
+                            <h2 class="mgn_btm_10"><span class="icon_dish">新着レシピ</span></h2>
+                            <ul class="flexbox new_recipe main_content_wrap">
+                                <li><figure><a href="#"><img src="images/contents/newRecipes1.jpg" alt="" width="80" height="80"></a><figcaption><a href="#">季節菜の彩り前菜</a></figcaption></figure></li>
+                                <li><figure><a href="#"><img src="images/contents/newRecipes2.jpg" alt="" width="80" height="80"></a><figcaption><a href="#">簡単かぼちゃスープ</a></figcaption></figure></li>
+                                <li><figure><a href="#"><img src="images/contents/newRecipes3.jpg" alt="" width="80" height="80"></a><figcaption><a href="#">ヘルシー米粉パン</a></figcaption></figure></li>
+                                <li><figure><a href="#"><img src="images/contents/newRecipes4.jpg" alt="" width="80" height="80"></a><figcaption><a href="#">ぷりぷりエビ料理</a></figcaption></figure></li>
+                                <li><figure><a href="#"><img src="images/contents/newRecipes5.jpg" alt="" width="80" height="80"></a><figcaption><a href="#">かんたん鴨南蛮</a></figcaption></figure></li>
+                            </ul>
+                        </div>
+                        <article class="content_wrap mgn_btm_10">
+                            <h2 class="mgn_btm_10"><span class="icon_dish">今だからこそ見直したい「和食」</span></h2>
+                            <div class="flexbox pdd_btm_30 main_content_wrap">
+                                <div  class="mgn_r_10"><img src="images/contents/topics.jpg" alt="和食" width="230" height="150"></div>
+                                <div class="relative pdd_btm_30">
+                                    <p class="mgn_btm_10">普段、私たちが何気なく口にしている和食ですが、その基本は一汁三菜。ご飯、味噌汁、お漬物、の他、主菜（魚またはお肉）、副菜として季節毎の野菜と豆類で構成されます。</p>
+                                    <p class="mgn_btm_10">昔から「旬の野菜を食べましょう」と言いますが、それは素材がじっくりと時間をかけて蓄積してきた旨みや栄養価が最高になったところでいただいて、効率よく栄養を取り風邪などの予防をしましょうね、ということです。</p>
+                                    <p>それでは各季節毎の旬の野菜について調べてみましょう。</p>
+                                    <div class="read_more"><a href="#"><span class="icon_arrow">続きを読む</span></a></div>                                </div>
+                            </div>
+                        </article>
+                        <article class="content_wrap mgn_btm_10">
+                            <h2 class="mgn_btm_10"><span class="icon_dish">簡単！おすすめレシピ</span></h2>
+                            <section class="flexbox mgn_btm_10 main_content_wrap">
+                                <div class="mgn_r_10"><img src="images/contents/pushRecipes1.jpg" alt="おすすめレシピ1" width="230" height="125"></div>
+                                <div class="relative">
+                                    <h3 class="mgn_btm_10">季節の食材〜春〜</h3>
+                                    <p>新たまねぎに春キャベツ、新じゃが、山菜などなど・・・春の野菜は風味が良くみずみずしいのが特徴です。</p>
+                                    <p>それでは春野菜を使ったレシピを紹介しましょう。</p>
+                                    <div class="read_more"><a href="#"><span class="icon_arrow">続きを読む</span></a></div>
+                                </div>
+                            </section>
+                            <section class="flexbox pdd_btm_30 main_content_wrap">
+                                <div class="mgn_r_10"><img src="images/contents/pushRecipes2.jpg" alt="おすすめレシピ2" width="230" height="125"></div>
+                                <div class="relative">
+                                    <h3 class="mgn_btm_10">春野菜を食べて花粉症対策？！</h3>
+                                    <p>春になると花粉に悩まされる人は多いと思います。</p>
+                                    <p>この花粉症、ある食材を取ることで少し緩和されるんです！</p>
+                                    <p>さて、その食材とは・・・？</p>
+                                    <div class="read_more"><a href="#"><span class="icon_arrow">続きを読む</span></a></div>
+                                </div>
+                            </section>
+                        </article>
+                    </div>
+                    <aside>
+                        <div class="mgn_btm_10"><a href="#" target="_blank"><img src="images/contents/advert1.png" alt="CodeCamp" width="154" height="351"></a></div>
+                        <div><a href="#" target="_blank"><img src="images/contents/advert2.png" alt="Webdesign" width="154" height="351"></a></div>
+                    </aside>
+                </div>
+            </div>
+        </main>
+        <footer>
+            <div class="container">
+                <ul class="flexbox footer_wrap">
+                    <li><a href="#">サイトマップ</a></li>
+                    <li><a href="#">プライバシーポリシー</a></li>
+                    <li><a href="#">お問い合わせ</a></li>
+                    <li><a href="#">ご利用ガイド</a></li>
+                </ul>
+                <p><small>Copyight&copy;CodeCamp All Rigths Reserved.</small></p>
+            </div>
+        </footer>
+    </body>
+</html>
