@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <script>
+    // 0-1の乱数取得
+    var num1 = Math.floor(Math.random() * 2);
+    var num2 = Math.floor(Math.random() * 2);
+    
+    //num1, num2の表示
+    document.write('<p>num1: ' + num1 + '</p>');
+    document.write('<p>num2: ' + num2 + '</p>');
+    
+    if (num1 > num2) {
+        // num1の方が大きかった場合
+        document.write('<p>num1の方が大きいです</p>');
+    }else if (num2 > num1) {
+        //num2の方が大きかった場合
+        document.write('<p>num2の方が大きいです</p>');
+    }else {
+        //同じ場合
+        document.write('<p>同じ値です</p>')
+    }
+  </script>
+</body>
+</html>
+
