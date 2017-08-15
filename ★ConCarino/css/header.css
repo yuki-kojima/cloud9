@@ -1,0 +1,9 @@
+header {
+    height: 50px;
+    background-color: #ffff55;
+    text-align: center;
+}
+
+.header_logo {
+    display: inline-block;    
+}

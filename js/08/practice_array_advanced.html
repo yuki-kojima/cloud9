@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>配列</title>
+    </head>
+    <script>
+        var data1 = [59, 39, 100, 2, 15, 40, 84, 97];
+        var data2 = [63, 18, 64, 97, 50, 98];
+        
+        var sum1 = 0;
+        
+        for (var i = 0; i < data1.length; i++){
+            sum1 += data1[i];
+        }
+        
+        var sum2 = 0;
+        
+        for (var n = 0; n < data2.length; n++){
+            sum2 += data2[n];
+        }
+        
+        var avarage = (sum1 + sum2) / (data1.length + data2.length);
+        
+        document.write('<p>data1とdata2を合わせた平均値：' + avarage + '</p>');
+        
+        
+        //平均以下を表示
+        document.write('<p>平均値以上の数値は以下</p>');
+        
+        for (var i = 0; i < data1.length; i++){
+            if (data1[i] >= avarage){
+            document.write('<p>data1：' + data1[i] + '</p>');
+            }
+        }
+        
+        
+        for (var n = 0; n < data2.length; n++){
+            if (data2[n] >= avarage){
+            document.write('<p>data2：' + data2[n] + '</p>');
+            }
+
+        }
+
+    </script>
+</html>

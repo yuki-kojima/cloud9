@@ -1,0 +1,711 @@
+[14-Aug-2017 22:55:48 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '?' in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 22:56:05 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 104
+[14-Aug-2017 22:59:59 Asia/Tokyo] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 100
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 40
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 40
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 58
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 58
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:00:06 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Warning:  include(../common/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 6
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Warning:  include(): Failed opening '../common/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 6
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 41
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 41
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 59
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 59
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:04:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 41
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 41
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 59
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 59
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:05:12 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:08:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:13:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:14:57 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:19:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:21:37 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:10 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 43
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 43
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 61
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 61
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:23:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:26 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:24:29 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 42
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 60
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:26:42 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 44
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 44
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 62
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 62
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:27:05 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 44
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 44
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 62
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 62
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:28:19 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:31:08 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:28 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:34:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:37:34 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:43:41 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:44:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:45:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:51:25 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:03 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:52:20 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP Stack trace:
+[14-Aug-2017 23:53:53 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:00:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:03:22 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:09:38 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:07 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:11:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:15:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:16:51 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:19:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 48
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 66
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:20:09 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:22:02 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:25:40 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:11 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:29:31 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:34:35 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:35:33 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:38:32 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:44:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:45:13 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:46:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:47:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:48:55 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 00:49:30 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 02:15:40 Asia/Tokyo] PHP Notice:  Undefined variable: area in /home/ubuntu/workspace/★ConCarino/view/register.php on line 27
+[15-Aug-2017 02:15:40 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 02:15:40 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 02:15:40 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/register.php on line 27
+[15-Aug-2017 02:15:40 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 02:15:40 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 02:16:17 Asia/Tokyo] PHP Notice:  Undefined variable: area in /home/ubuntu/workspace/★ConCarino/view/register.php on line 27
+[15-Aug-2017 02:16:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 02:16:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 02:16:17 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/register.php on line 27
+[15-Aug-2017 02:16:17 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 02:16:17 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Warning:  include(./common/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/★ConCarino/view/register.php on line 9
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Warning:  include(): Failed opening './common/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/★ConCarino/view/register.php on line 9
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Notice:  Undefined variable: pref in /home/ubuntu/workspace/★ConCarino/view/register.php on line 38
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/register.php on line 38
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:44 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Warning:  include(./common/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 9
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Warning:  include(): Failed opening './common/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 9
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Notice:  Undefined variable: err_msg in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 49
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Notice:  Undefined variable: data in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/admin.php on line 67
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:22:54 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/admin.php:0
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Warning:  include(./common/header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/★ConCarino/view/register.php on line 9
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Warning:  include(): Failed opening './common/header.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/★ConCarino/view/register.php on line 9
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Notice:  Undefined variable: pref in /home/ubuntu/workspace/★ConCarino/view/register.php on line 38
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/★ConCarino/view/register.php on line 38
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP Stack trace:
+[15-Aug-2017 04:37:21 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/★ConCarino/view/register.php:0

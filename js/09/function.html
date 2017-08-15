@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>関数</title>
+    </head>
+    <body>
+        <script>
+            function hello(){
+                document.write('<p>hello関数： hello</p>');
+            }
+            
+            function hello_name(name){
+                document.write('<p>hello_name関数： hello ' + name + '</p>');
+        
+            }
+            
+            function  return_hello_name(name){
+                var str = '<p>return_hello_name関数： hello' + name + '</p>';
+                return str;
+            }
+            
+            // hello関数(ユーザー定義関数 1)の実行
+            hello();
+            // hello_name関数(ユーザー定義関数 2)の実行
+            hello_name('小嶋');
+            // return_hello_name関数(ユーザー定義関数 3)の実行
+            var return_str = return_hello_name('鈴木');
+            document.write(return_str);
+            document.write(return_hello_name('吉田'));
+        </script>
+    </body>
+    
+</html>

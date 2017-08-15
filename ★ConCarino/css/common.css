@@ -1,0 +1,37 @@
+body {
+    font-size: 14px;
+}
+
+select, input, textarea {
+    font-size: 12px;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.input_common {
+    height: 30px;
+    border-radius: 4px;
+    border: solid 1px #ccc;
+    box-sizing: border-box;
+    padding: 3px 10px;
+    margin: 5px 0 0;
+}
+
+.btn_common {
+    text-align: center;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+}
+

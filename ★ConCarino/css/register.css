@@ -1,0 +1,53 @@
+.form_reg_user {
+    width: 40%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.input_set {
+    margin-top: 20px;
+}
+.input_set:first-child {
+    margin-top: 0;
+}
+
+label, .label {
+    font-weight: bold;
+}
+
+.required {
+    color: #fff;
+    font-size: 12px;
+    font-weight: normal;
+    background-color: #ff3366;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 3px;
+    margin: 0 5px;
+}
+
+.optional {
+    color: #fff;
+    font-size: 12px;
+    font-weight: normal;
+    background-color: #aaa;
+    border-radius: 2px;
+    display: inline-block;
+    padding: 3px;
+    margin: 0 5px;
+}
+
+.btn_reg_user {
+    width: 80%;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: .2em;
+    border-color: #ff3366;
+    background-color: #ff3366;
+    margin: 30px auto;
+}
+
+.input_reg {
+    width: 100%;
+}
