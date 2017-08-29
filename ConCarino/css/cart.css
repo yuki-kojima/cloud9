@@ -1,0 +1,101 @@
+.cart_wrap {
+    width: 70%;
+    margin: 30px auto;
+}
+
+table, td, th {
+    border-collapse: collapse;
+    border: solid 1px #444;
+}
+
+.cart {
+    width: 100%;
+}
+
+.cart th {
+    color: #fff;
+    background-color: #444;
+}
+
+.item_name {
+    width: 50%;
+}
+
+.item_name_wrap {
+    -webkit-display: flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.item_name_wrap img {
+    width: 100px;
+    height: 100px;
+}
+
+.item_name_warp p {
+    display: inline-block;
+}
+.price {
+    text-align: right;
+    width: 15%;
+}
+
+.quantity {
+    width: 10%;
+    text-align: center;
+}
+
+.quantity input {
+    width: 40%;
+}
+
+.delete {
+    width: 10%;
+}
+
+.total_price {
+    text-align: right;
+    color: #fff;
+    background-color: #c1c1c1;
+}
+
+.btn_cart_common {
+    text-align: center;
+    font-size: 80%;
+    letter-spacing: .2em;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    margin: 5px auto;
+}
+
+.btn_purchase {
+    font-size: 120%;
+    margin-top: 5px;
+    padding: 3px;
+}
+
+.btn_continue {
+    color: #fff;
+    border-color: #444;
+    background-color: #444;
+    text-align: center;
+    letter-spacing: .2em;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    padding: 3px;
+    margin: 5px auto;
+    
+}
+
+.btn_purchase, .btn_continue {
+    width: 35%;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+.btn_cart_common:hover, .btn_continue:hover {
+    opacity: .5;
+}

@@ -382,10 +382,10 @@ function get_drink_data($dbh) {
 }
 
 /** 更新された在庫数をDBのdrink_stockに反映し
+ * drink_masterのupdate_datetimeも更新する
  *  @param obj $dbh DBハンドル
  *  @param str $update_stock 在庫数
  *  @param str $update_id 更新された商品ID
- *  drink_masterのupdate_datetimeも更新する
  */
  
 function insert_update_stock_data($dbh, $update_stock, $update_id) {

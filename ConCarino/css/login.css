@@ -1,0 +1,44 @@
+.form_login {
+    width: 40%;
+    margin: 150px auto 0;
+}
+
+.form_login label {
+    width: 40%;
+    text-align: right;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.form_login input {
+    width: 60%;
+    display: inline-block;
+}
+
+.btn_wrap {
+    display: flex;
+    -webkit-justify-content: center;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+
+.btn_reg {
+    border-width: 2px;
+    border-style: solid;
+}
+
+.btn_login, .btn_reg {
+    width: 45%;
+    padding: 2px 0;
+}
+
+.btn_login:hover, .btn_reg:hover {
+    opacity: .5;
+}
+
+.btn_login {
+    color: #fff;
+    background-color: #444;
+    border-color: #444;
+}

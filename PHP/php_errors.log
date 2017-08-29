@@ -5244,3 +5244,21 @@ Stack trace:
 [14-Aug-2017 21:39:56 Asia/Tokyo] PHP Notice:  Use of undefined constant exist - assumed 'exist' in /home/ubuntu/workspace/PHP/27/challenge_session_delete.php on line 16
 [14-Aug-2017 21:39:56 Asia/Tokyo] PHP Stack trace:
 [14-Aug-2017 21:39:56 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/27/challenge_session_delete.php:0
+[28-Aug-2017 21:49:30 Asia/Tokyo] PHP Notice:  Undefined variable: test in /home/ubuntu/workspace/PHP/sample/string.php on line 18
+[28-Aug-2017 21:49:30 Asia/Tokyo] PHP Stack trace:
+[28-Aug-2017 21:49:30 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/sample/string.php:0
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Notice:  Undefined variable: name in /home/ubuntu/workspace/PHP/sample/string.php on line 4
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Stack trace:
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/sample/string.php:0
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Notice:  Undefined variable: foo in /home/ubuntu/workspace/PHP/sample/string.php on line 4
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Stack trace:
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/sample/string.php:0
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/PHP/sample/string.php on line 4
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Stack trace:
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/sample/string.php:0
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Notice:  Undefined variable: foo in /home/ubuntu/workspace/PHP/sample/string.php on line 5
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Stack trace:
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/sample/string.php:0
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/ubuntu/workspace/PHP/sample/string.php on line 5
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP Stack trace:
+[28-Aug-2017 21:53:00 Asia/Tokyo] PHP   1. {main}() /home/ubuntu/workspace/PHP/sample/string.php:0

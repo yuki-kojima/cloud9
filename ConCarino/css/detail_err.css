@@ -1,0 +1,21 @@
+.detail_err {
+    text-align: center;
+    margin: 200px auto 15px;
+}
+
+.btn_index {
+    color: #fff;
+    border-color: #444;
+    background-color: #444;
+    text-align: center;
+    letter-spacing: .2em;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+    padding: 3px;
+    margin: 5px auto;
+}
+
+.btn_index:hover {
+    opacity: .5;
+}

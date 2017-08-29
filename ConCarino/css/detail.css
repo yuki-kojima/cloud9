@@ -1,0 +1,286 @@
+/* 商品詳細 */
+
+.detail_wrap {
+    width: 80%;
+    -webkit-display: flex;
+    margin: 30px auto;
+    display: flex;
+}
+
+.detail_img_wrap {
+    width: 45%;
+}
+
+.detail_img_wrap img {
+    width: 100%;
+}
+
+.detail_info_wrap {
+    width: 55%;
+    -webkit-box-sizing : border-box ;
+    -moz-box-sizing : border-box ;
+    box-sizing: border-box;
+    position: relative;
+    padding: 20px;
+}
+
+.detail_ttl {
+    letter-spacing: .2ex;
+}
+
+.detail_price {
+    font-size: 130%;
+    text-align: right;
+}
+
+.rate_wrap {
+    position: relative;
+    
+}
+
+.detail_rate {
+    width: 40%;
+    font-size: 180%;
+    display: inline-block
+}
+
+.rate::before {
+    content: "\f005\f005\f005\f005\f005";
+    color: #ccc;
+    letter-spacing: .3ex;
+    font-family: FontAwesome;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate10::after {
+    content: "\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate15::after {
+    content: "\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate20::after {
+    content: "\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate25::after {
+    content: "\f005\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate30::after {
+    content: "\f005\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate35::after {
+    content: "\f005\f005\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate40::after {
+    content: "\f005\f005\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate45::after {
+    content: "\f005\f005\f005\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate50::after {
+    content: "\f005\f005\f005\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.score {
+    color: #F92E44;
+    font-weight: bold;
+}
+
+.score_detail {
+    font-size: 160%;
+}
+
+.detail_discription {
+    font-size: 120%;
+    line-height: 1.4;
+    letter-spacing: .3ex;
+}
+
+.btn_cart_wrap {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0; 
+}
+
+.btn_cart {
+    color: #fff;
+    background-color: #2b2b2b;
+    border-color: #2b2b2b;
+    padding: 4% 15%;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.btn_cart:hover {
+    opacity: .5;
+}
+
+/* 口コミ */
+
+.review_wrap {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.review {
+    border-top: solid 1px #c1c1c1;
+    padding: 10px 0;
+}
+
+.no_review {
+    border-top: solid 1px #c1c1c1;
+    padding: 30px 0 20px 0;
+}
+
+.review_rate {
+    width: 16%;
+    font-size: 140%;
+    display: inline-block
+}
+
+.score_review {
+    font-size: 130%;
+}
+
+.given {
+    color: #fff;
+    font-size: 110%;
+    font-weight: normal;
+    background-color: #ff678d;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 3px;
+    margin: 0 10px;
+}
+
+.give {
+    color: #fff;
+    font-size: 110%;
+    font-weight: normal;
+    background-color: #ffa700;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 3px;
+    margin: 0 10px;
+}
+
+
+.review_comment {
+    font-size: 120%;
+}
+
+
+/* 口コミ投稿 */
+
+.fa-commenting-o:before {
+    font-size: 130%;
+    padding-left: 5px;
+}
+
+#post label[for="post_rate"], #post label[for="comment"] {
+    text-align: right;
+    width: 100px;
+    display: inline-block
+}
+
+#post label[for="give_given"] {
+    text-align: right;
+    padding-left: 40px;
+} 
+
+.post_select_wrap {
+    -webkit-display: flex;
+    display: flex;
+}
+
+#comment {
+    vertical-align: top;
+    border-radius: 4px;
+    border: solid 1px #ccc;
+    -webkit-box-sizing : border-box ;
+    -moz-box-sizing : border-box ;
+    box-sizing: border-box;
+    padding: 3px 10px;
+    margin: 5px 0 0;
+}
+
+.btn_post {
+    color: #fff;
+    border: solid 1px #444;
+    background-color: #444;
+    padding: 2%;
+    margin-right: 0;
+    margin-left: auto;
+}
+
+.btn_post:hover {
+    opacity: .5;
+}
+
+a:hover {
+    opacity: .5;
+}

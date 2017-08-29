@@ -1,0 +1,139 @@
+/* ヘッダー*/
+header {
+    height: 50px;
+    background-color: #4d3e3b;
+    text-align: center;
+}
+
+.relative {
+    position: relative;
+}
+
+.header_logo {
+    height: 50px;
+    width: 145px;
+    background-image: url(../img/logo_w.png);
+    background-size: cover;
+    background-position: center;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.fa-sign-out:before, .fa-shopping-cart:before {
+    color: #fff;
+    font-size: 200%;
+    margin-right: 10px;
+}
+
+.header_icon_wrap {
+    display: inline-block;
+    position: absolute;
+    top: 11px;
+    right: 0;
+}
+
+#form_logout {
+    display: inline-block;
+}
+
+/* body */
+
+body {
+    font-size: 14px;
+}
+
+select, input, textarea {
+    font-size: 12px;
+}
+
+option {
+    text-align: center;
+}
+
+.container {
+    max-width: 900px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+.mgn_t_30 {
+    margin-top: 30px;
+}
+
+.mgn_b_30 {
+    margin-bottom: 30px;
+}
+
+.fw_bold {
+    font-weight: bold;
+}
+
+.input_common {
+    height: 30px;
+    border-radius: 4px;
+    border: solid 1px #ccc;
+    -webkit-box-sizing : border-box ;
+    -moz-box-sizing : border-box ;
+    box-sizing: border-box;
+    padding: 3px 10px;
+    margin: 5px 0 0;
+}
+
+.btn_common {
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: .2em;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+}
+
+.btn_red {
+    color: #fff;
+    border-color: #ff3366;
+    background-color: #ff3366;
+}
+
+.btn_red:hover {
+    border-color: #fd688d;
+    background-color: #fd688d;
+    
+}
+
+
+/* フッター*/
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: #4d3e3b;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+}
+
+small {
+    color: #fff;
+}
+
+
+.container_wrap {
+    height: auto !important;
+    height: 100%;
+    min-height: 100%;
+    position: relative
+}

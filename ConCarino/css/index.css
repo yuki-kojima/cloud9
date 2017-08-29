@@ -1,0 +1,295 @@
+/* 商品検索 */
+
+.form_wrap {
+    background-image: url(../img/bg_gift.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding: 20px 0;
+    
+}
+
+.form_wrap_opacity {
+    background-color: rgba(255, 255, 255, .6);
+    -webkit-box-sizing : border-box ;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px 0;
+}
+
+.form_search {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.form_search input[type=checkbox] + label {
+    position: relative;
+    display: inline-block;
+}
+
+
+@media (min-width: 1px) {
+    .form_search input[type=checkbox] {
+        display: none;
+        margin: 0;
+    }
+    
+    .form_search input[type=checkbox] + label {
+        width: 45%;
+        height: 30px;
+        letter-spacing: .2em;
+        border-radius: 4px;
+        padding: 5px 5px 5px 24px;
+        -webkit-box-sizing : border-box ;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        background-color: #fff;
+        border: solid 1px #ccc;
+        margin: 10px 0 0;
+    }
+    
+    .form_search input[type=checkbox]:checked + label {
+        color: #fff;
+        font-weight: bold;
+        border: solid 1px #444;
+        background-color: #444;
+    }
+    .form_search input[type=checkbox] + label::before{
+        content: "";
+        position: absolute;
+        top: 58%;
+        left: 0px;
+        
+        width: 16px;
+        height: 8px;
+        
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        
+        -webkit-box-sizing : border-box ;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        display: block;
+        margin-top: -9px;
+        margin-left: 5px;
+    }
+    
+    .form_search input[type=checkbox]:not(:checked) + label::before {
+        border-left: 3px solid #ccc;
+        border-bottom: 3px solid #ccc;
+    }
+    
+    .form_search input[type=checkbox]:checked + label::before {
+        border-left: 3px solid #fff;
+        border-bottom: 3px solid #fff;
+    }
+}
+
+.label {
+    width: 15%;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.option_wrap {
+    width: 75%;
+    text-align: left;
+    display: inline-block;
+}
+
+select[name="min_budget"], select[name="max_budget"] {
+    width: 40%;
+    height: 30px;
+    border-radius: 4px;
+    border: solid 1px #ccc;
+    -webkit-box-sizing : border-box ;
+    -moz-box-sizing : border-box ;
+    box-sizing: border-box;
+    padding: 3px 10px;
+    margin: 10px 0 0;
+}
+
+#keywd {
+    width: 45%;
+    margin-left: 10px;
+}
+
+.btn_search {
+    font-size: 120%;
+    padding: 7px;
+    margin: 10px auto;
+}
+
+/* 商品一覧 */
+
+.sort_wrap {
+    -webkit-display: flex;
+    display: flex;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+
+.rate_wrap {
+    position: relative;
+    
+}
+
+.rate {
+    width: 50%;
+    font-size: 130%;
+    display: inline-block
+}
+
+.rate::before {
+    content: "\f005\f005\f005\f005\f005";
+    color: #ccc;
+    letter-spacing: .3ex;
+    font-family: FontAwesome;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate10::after {
+    content: "\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate15::after {
+    content: "\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate20::after {
+    content: "\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate25::after {
+    content: "\f005\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate30::after {
+    content: "\f005\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate35::after {
+    content: "\f005\f005\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate40::after {
+    content: "\f005\f005\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate45::after {
+    content: "\f005\f005\f005\f005\f089";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.rate50::after {
+    content: "\f005\f005\f005\f005\f005";
+    color: #f4d127;
+    letter-spacing: .3ex;
+    font-family: FontAwesome; 
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.item_list_wrap {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0 auto 60px;
+}
+
+
+.item_wrap {
+    -webkit-box-sizing : border-box ;
+    -moz-box-sizing : border-box ;
+    box-sizing: border-box;
+    -webkit-flex-basis: 33%;
+    flex-basis: 25%;
+    padding: 0 1%;
+    
+}
+
+.item_img img {
+    width: 100%;
+}
+
+.item_img:hover, .item_info_wrap:hover, .btn_cart:hover{
+    opacity: .5;
+}
+
+.rate_score {
+    color: #F92E44;
+    font-size: 120%;
+    font-weight: bold;
+}
+
+.item_info_wrap {
+    margin-top: 3%;
+}
+
+.item_name {
+    font-size: 120%;
+}
+
+.item_price {
+    text-align: right;
+    
+}
+
+.btn_cart {
+    color: #fff;
+    background-color: #444;
+    border-color: #444;
+    margin: 5% auto;
+}
