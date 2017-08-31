@@ -109,7 +109,7 @@ function get_item_id($dbh, $item_id) {
          elseif ((35 <= $data['avg_rate']) && ($data['avg_rate'] < 40 )) {$data['star_rate'] = 35;}
          elseif ((40 <= $data['avg_rate']) && ($data['avg_rate'] < 45 )) {$data['star_rate'] = 40;}
          elseif ((45 <= $data['avg_rate']) && ($data['avg_rate'] < 50 )) {$data['star_rate'] = 45;}
-         elseif ($data['avg_rate'] === 50 ) {$data['star_rate'] = 50;}
+         elseif ($data['avg_rate'] === '50.0' ) {$data['star_rate'] = 50;}
          
          return $data;
   }

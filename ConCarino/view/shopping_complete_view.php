@@ -19,9 +19,9 @@
                     <table class="purchased">
                         <tr>
                             <th>商品名</th>
-                            <th>単価</th>
+                            <th>単価(税込)</th>
                             <th>数量</th>
-                            <th>価格</th>
+                            <th>価格(税込)</th>
                         </tr>
                         <?php foreach ($data as $key => $value) { ?>
                         <tr>

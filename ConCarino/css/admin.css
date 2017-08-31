@@ -71,15 +71,11 @@ input[name="update_stock"] {
     width: 50%;
 }
 
-.item_img {
+.item_img, .item_stock, .item_name, .item_status, .item_description, .item_price {
     width: 10%;
 }
 
 .item_img img {
     width: 100%;
     height: auto;
-}
-
-.item_stock {
-    width: 10%;
 }

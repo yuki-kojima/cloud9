@@ -257,6 +257,7 @@ select[name="min_budget"], select[name="max_budget"] {
     -webkit-flex-basis: 33%;
     flex-basis: 25%;
     padding: 0 1%;
+    margin: 2% 0;
     
 }
 
@@ -279,12 +280,17 @@ select[name="min_budget"], select[name="max_budget"] {
 }
 
 .item_name {
-    font-size: 120%;
+    font-size: 100%;
+    padding: 5px 0;
 }
 
 .item_price {
     text-align: right;
     
+}
+
+.form_cart {
+    margin-top: 5px;
 }
 
 .btn_cart {

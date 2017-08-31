@@ -17,7 +17,7 @@
                     <p><label class="label" for="item_name">商品名：</label><input class="input_reg_item" type="text" id="item_name" name="item_name" value=""></p>
                     <p><label class="label" for="item_description">商品説明：</label><textarea class="input_reg_item" id="item_description" name="description" rows="3" cols="30"></textarea></p>
                     <p><label class="label" for="img">商品画像：</label><input type="file" id="img" name="img" value=""></p>
-                    <p><label class="label" for="price">単価(税抜)：</label><input class="input_reg_item input_text" type="text" id="price" name="price" value="">円</p>
+                    <p><label class="label" for="price">単価(税込)：</label><input class="input_reg_item input_text" type="text" id="price" name="price" value="">円</p>
                     <p><label class="label" for="stock">在庫数：</label><input class="input_reg_item input_text" type="text" id="stock" name="stock" value="">個</p>
                     <p>
                         <span class="label" >ターゲット：</span>
@@ -68,9 +68,9 @@
                    <?php foreach ($data as $value) { ?>
                        <tr <?php if ($value['status'] === '1') { print 'class="bg_c_gray"';}  ?>>
                             <td class="item_img"><img src="<?php print $img_dir . $value['img']; ?>" ></td>
-                            <td><?php print $value['item_name']; ?></td>
-                            <td><?php print $value['description']; ?></td>
-                            <td><?php print $value['price']; ?>円</td>
+                            <td class="item_name"><?php print $value['item_name']; ?></td>
+                            <td class="item_description"><?php print $value['description']; ?></td>
+                            <td class="item_price"><?php print $value['price']; ?>円</td>
                             <td><?php print $value['category']; ?></td>
                             <td>
                             <?php if ($value['target_m'] === '1') { ?><p>男性</p> <?php } ?>
@@ -83,7 +83,7 @@
                                     <p><input type="submit" name="update" value="変更"></p>
                                 </form>
                             </td>
-                            <td>
+                            <td class="item_status">
                                 <form action="./admin.php" method="post">
                                     <input type="hidden" name="change_id" value="<?php print $value['item_id']; ?>">
                                     <?php if ($value['status'] === '0') { ?>

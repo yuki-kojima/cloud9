@@ -99,6 +99,7 @@ function check_search_err($target_m, $target_f, $min_budget, $max_budget, $categ
  *  @param str $category4 キッチン雑貨フラグ
  *  @param str $category5 ファッション雑貨フラグ
  *  @param str $category6 ステーショナリーフラグ
+ *  @param str $sort_flg 並べ替えフラグ
  *  @param array 検索結果一覧
  */
 function get_search_data($dbh, $target_m, $target_f, $min_budget, $max_budget, $category1, $category2, $category3, $category4, $category5, $category6, $sort_flg) {
@@ -130,10 +131,10 @@ function get_search_data($dbh, $target_m, $target_f, $min_budget, $max_budget, $
     
     // 追加の検索条件
     // ターゲットフラグ
-    if ($target_m !== '') {
+    if (($target_m !== '') && ($target_f === '')) {
         $sql .= ' AND target_m = 1';
     }
-    if ($target_f !== '') {
+    if (($target_f !== '') && ($target_m === '')) {
         $sql .= ' AND target_f = 1';
     }
     // 予算
@@ -175,15 +176,15 @@ function get_search_data($dbh, $target_m, $target_f, $min_budget, $max_budget, $
     
     $sql .= ' GROUP BY item_master.item_id';
     
-             if (($sort_flg === '0') || ($sort_flg === '')) {
-                 $sql .= ' ORDER BY item_master.created_at DESC';
-             } elseif ($sort_flg === '1') {
-                 $sql .= ' ORDER BY item_master.price';
-             } elseif ($sort_flg === '2') {
-                 $sql .= ' ORDER BY item_master.price DESC';
-             } elseif ($sort_flg === '3') {
-                 $sql .= ' ORDER BY avg_rate DESC';
-             }
+     if (($sort_flg === '0') || ($sort_flg === '')) {
+         $sql .= ' ORDER BY item_master.created_at DESC';
+     } elseif ($sort_flg === '1') {
+         $sql .= ' ORDER BY item_master.price';
+     } elseif ($sort_flg === '2') {
+         $sql .= ' ORDER BY item_master.price DESC';
+     } elseif ($sort_flg === '3') {
+         $sql .= ' ORDER BY avg_rate DESC';
+     }
     // var_dump($sql);
     // SQL実行準備
     $stmt = $dbh->prepare($sql);
@@ -246,9 +247,10 @@ function check_sort_err($sort_flg) {
 /** 販売可能商品一覧を取得する
  * @param obj $dbh DBハンドル
  * @return array 商品一覧データ
+ * @param str $sort_flg 並べ替えフラグ
  */
  
-function get_onsale_item_data($dbh) {
+function get_onsale_item_data($dbh, $sort_flg) {
     
     // SQL文作成
     $sql = 'select
@@ -273,8 +275,17 @@ function get_onsale_item_data($dbh) {
             ON 
                 item_master.item_id = item_review.item_id
             WHERE status = 0
-            GROUP BY item_review.item_id
-            ORDER BY item_master.created_at DESC';
+            GROUP BY item_master.item_id';
+            
+    if (($sort_flg === '0') || ($sort_flg === '')) {
+         $sql .= ' ORDER BY item_master.created_at DESC';
+     } elseif ($sort_flg === '1') {
+         $sql .= ' ORDER BY item_master.price';
+     } elseif ($sort_flg === '2') {
+         $sql .= ' ORDER BY item_master.price DESC';
+     } elseif ($sort_flg === '3') {
+         $sql .= ' ORDER BY avg_rate DESC';
+     }
     
     // SQL実行準備
     $stmt = $dbh->prepare($sql);
@@ -306,8 +317,9 @@ function get_onsale_item_data($dbh) {
          elseif ((35 <= $value['avg_rate']) && ($value['avg_rate'] < 40 )) {$value['star_rate'] = 35;}
          elseif ((40 <= $value['avg_rate']) && ($value['avg_rate'] < 45 )) {$value['star_rate'] = 40;}
          elseif ((45 <= $value['avg_rate']) && ($value['avg_rate'] < 50 )) {$value['star_rate'] = 45;}
-         elseif ($value['avg_rate'] === 50 ) {$value['star_rate'] = 50;}
+         elseif ($value['avg_rate'] === '50.0') {$value['star_rate'] = 50;}
       }
+    
      return $data;
   }
 
@@ -337,6 +349,7 @@ function get_added_item_data($dbh, $item_id){
                 ON item_master.item_id = item_stock.item_id
             WHERE
                 item_master.item_id = :item_id';
+                
     
     // SQL文実行準備
     $stmt = $dbh->prepare($sql);

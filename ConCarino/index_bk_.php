@@ -57,21 +57,8 @@ try {
     add_cart($dbh, $user_id);
 
     // 商品一覧取得
-
-// 検索がない場合は全アイテム表示
-    if (isset($_GET['search']) !== TRUE) {
-        // 変数初期化
-        $sort_flg = '';
-        
-        // 送信された並べ替えフラグを取得
-        $sort_flg = get_get_data('sort_flg');
-        
-        // エラーチェック
-        if (check_sort_err($sort_flg) === TRUE) {
-        $data = get_onsale_item_data($dbh, $sort_flg);
-        } 
     // 商品検索がされたら以下の処理をする
-    } elseif ((($_SERVER['REQUEST_METHOD'] === 'GET') && (isset($_GET['search']) === TRUE)) || (($_SERVER['REQUEST_METHOD'] === 'GET') && (isset($_GET['sort_flg']) === TRUE))) {
+    if ((($_SERVER['REQUEST_METHOD'] === 'GET') && (isset($_GET['search']) === TRUE)) || (($_SERVER['REQUEST_METHOD'] === 'GET') && (isset($_GET['sort_flg']) === TRUE))) {
      
         // 変数初期化
         $target_m = '';
@@ -104,6 +91,19 @@ try {
 
         // 検索結果を取得
             $data = get_search_data($dbh, $target_m, $target_f, $min_budget, $max_budget, $category1, $category2, $category3, $category4, $category5, $category6, $sort_flg);
+        }
+    } else {
+    // 検索がない場合は全アイテム表示
+    
+        // 変数初期化
+        $sort_flg = '';
+        
+        // 送信された並べ替えフラグを取得
+        $sort_flg = get_get_data('sort_flg');
+        
+        // エラーチェック
+        if (check_sort_err($sort_flg) === TRUE) {
+        $data = get_onsale_item_data($dbh, $sort_flg);
         }
     }
     

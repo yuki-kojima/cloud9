@@ -124,7 +124,7 @@
                                     <!--    <input type="hidden" name="item_id" value="<?php print $value['item_id']; ?>" >-->
                                     <!--</form>-->
                                 <?php if (($value['status'] === '0') && ($value['stock'] !== '0')) { ?>
-                                    <form action="./index.php" method="post">
+                                    <form class="form_cart" action="./index.php" method="post">
                                         <input type="hidden" name="item_id" value="<?php print $value['item_id']; ?>">
                                         <button type="submit" class="btn_common btn_cart" name="add_to_cart">カートに入れる</button>
                                     </form>
